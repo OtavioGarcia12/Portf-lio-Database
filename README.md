@@ -32,13 +32,6 @@ Com base nesses dados, o sistema permitirá registrar o histórico de compras do
 - `Estudo_de_Caso_Supermercado_Otavio.docx`: documento completo do portfólio
 - `script.sql`: modelo físico com os comandos SQL para criação das tabelas
 
----
-
-## 📽️ Vídeo (opcional)
-
-Se você quiser assistir a apresentação do projeto, acesse:  
-📺 [Link para o vídeo pitch](https://youtube.com/seu-video-aqui)  
-*(substituir pelo link do seu vídeo, se gravar)*
 
 ---
 
